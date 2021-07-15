@@ -1,0 +1,33 @@
+header:nth-child(1) {
+margin-left: 200px;
+}
+
+header article p:first-child {
+    font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+
+}
+
+hr {
+    border-style:inset;
+    border-radius: 20%;
+}
+header article {
+    margin-left: 55px;
+    margin-top: -67px;
+}
+
+header nav {
+    float: right;
+    margin-top: -50px;
+    
+
+}
+
+header nav:nth-child(7) {
+    /* float: right; */
+    margin-right: 30px;
+    padding-right: 0px;
+    background-color: black;
+    }
+
